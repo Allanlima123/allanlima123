@@ -1,5 +1,4 @@
-## Oi! Eu sou o allan lima 😁
-### Sou desenvolvedor frontend Júnior
+## Oi! Eu sou o allan lima 😁 || ### Sou desenvolvedor frontend Júnior
 
  <div>
   <a href="https://github.com/allanlima123">
