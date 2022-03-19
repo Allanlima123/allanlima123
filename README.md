@@ -1,5 +1,9 @@
-## Oi! Eu sou o allan lima 😁 
-💻Desenvolvedor frontend Júnior
+## Oi! seja bem vindo ao meu Github 😁 
+💻Sou Desenvolvedor frontend Júnior, atualmente estudo HTML, CSS, JavaScript e React.
+
+ <ul>
+    <li>📫Meu contato: https://www.linkedin.com/in/alan-lima-049425207/</li>
+ </ul>
 
  <div>
   <a href="https://github.com/allanlima123">
