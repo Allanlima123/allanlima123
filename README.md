@@ -3,6 +3,8 @@
 
  <ul>
     <li>📫Meu contato: https://www.linkedin.com/in/alan-lima-049425207/</li>
+    <li>📕Aprendendo qualquer tecnologia que apareça no meu caminho.</li>
+    <li>🌱Cursando o curso <strong>DevEmDobro.</strong></li>
  </ul>
 
  <div>
