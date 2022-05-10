@@ -1,5 +1,5 @@
 ## Oi! seja bem vindo ao meu Github 😁 
-💻Sou Desenvolvedor frontend Júnior, atualmente estudo HTML, CSS, JavaScript e React.
+💻Sou Desenvolvedor frontend Júnior, estudo HTML, CSS, JavaScript e React.
 
  <ul>
     <li>📫Meu contato: https://www.linkedin.com/in/alanlimasantos/</li>
