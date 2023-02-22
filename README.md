@@ -1,5 +1,5 @@
 ## Oi! seja bem vindo ao meu Github 😁 
-💻Sou Desenvolvedor frontend Júnior, estudo HTML, CSS, JavaScript e React.
+💻Sou Desenvolvedor, estudo HTML, CSS, JavaScript, React, MYSQL, Java.
 
  <ul>
     <li>📫Meu contato: alan.silva1f@gmail.com</li>
