@@ -4,7 +4,7 @@
  <ul>
     <li>📫Meu contato: alan.silva1f@gmail.com</li>
     <li>📕Aprendendo qualquer tecnologia que apareça no meu caminho.</li>
-    <li>🌱Cursando o curso <strong>DevEmDobro.</strong></li>
+    <li>🌱Cursando o curso <strong>Técnico em Informática.</strong></li>
  </ul>
 
  <div>
